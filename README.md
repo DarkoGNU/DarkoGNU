@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkoGNU
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Linux administration
-- 💞️ I’m looking to collaborate on whatever you want me to collaborate on
+- 💞️ I’m looking to collaborate on Linux and DevOps projects
 - 📫 You can reach me via Discord - Inspir#1276, and Telegram - @Inspiir
 
 <!---
